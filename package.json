@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node source",
+    "test": "./node_modules/.bin/_mocha --reporter spec"
+  },
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "nodemon": "^2.0.15",
+    "should": "^13.2.3"
+  }
+}
