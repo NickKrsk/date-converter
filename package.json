@@ -5,7 +5,6 @@
   },
   "dependencies": {
     "mocha": "^5.2.0",
-    "nodemon": "^2.0.15",
     "should": "^13.2.3"
   }
 }
